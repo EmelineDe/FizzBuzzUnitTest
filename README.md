@@ -1,6 +1,6 @@
 # FeezBuzz (Java)
 
-FeezBuzz est une implémentation simple en Java de l'exercice classique FizzBuzz, souvent utilisé lors des premiers exercices d'apprentissage ou d'entretiens techniques.
+FeezBuzz est une implémentation simple en Java de l'exercice classique FizzBuzz.
 
 Ce projet inclut également des tests unitaires écrits avec **JUnit**, pour garantir le bon fonctionnement de la logique.
 
