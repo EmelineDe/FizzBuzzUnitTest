@@ -1,4 +1,4 @@
-# FeezBuzz (Java)
+# FeezBuzz Java
 
 FeezBuzz est une implémentation simple en Java de l'exercice classique FizzBuzz.
 
